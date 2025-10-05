@@ -24,13 +24,13 @@
 
 <!-- 🎥 Video phát thẳng trên README -->
 <p align="center">
-  <video src="./public/Videos/BiO2%20Project%20Demo.mp4"
+  <video src="./public/Videos/BiO2_Project_Demo.mp4"
          width="860"
          controls
          playsinline
          preload="metadata">
     Your browser does not support the video tag. Watch the demo:
-    <a href="./public/Videos/BiO2%20Project%20Demo.mp4">BiO2 Project Demo</a>.
+    <a href="./public/Videos/BiO2_Project_Demo.mp4">BiO2 Project Demo</a>.
   </video>
   <br />
   <sub>🎯 Nếu GitHub không tự phát video, bấm vào nút <strong>Demo-Video</strong> phía trên để mở trực tiếp file MP4.</sub>
