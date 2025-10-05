@@ -30,7 +30,7 @@
          playsinline
          preload="metadata">
     Your browser does not support the video tag. Watch the demo:
-    <a href="./public/Videos/BiO2_Project_Demo.mp4">BiO2 Project Demo</a>.
+    <a href="./public/Videos/BiO2_Project_Demo.mp4">BiO2_Project_Demo</a>.
   </video>
   <br />
   <sub>🎯 Nếu GitHub không tự phát video, bấm vào nút <strong>Demo-Video</strong> phía trên để mở trực tiếp file MP4.</sub>
